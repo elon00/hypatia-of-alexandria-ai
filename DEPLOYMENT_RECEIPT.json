@@ -1,0 +1,14 @@
+{
+  "project": "hypatia-of-alexandria-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "D5pmUuWVKALVW8LQSE1UZH3WzRWNtsp1EjUzFq8ZgTJ8",
+  "vault_account": "HLtsMiKn4qui7zytu26pVRDjerV7vBSuzE4DpURxAmCK",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3cnKx7b675n9DdxKtZLyf9S4n1CqBs8gDxG4PVnXFx6s3SoJKoA67rj13FNVBZxiQMUKCtzqYWwbgbxQFHYq5DFt",
+  "account_tx": "fJY6eHKkzMD3Gj1gPNeAckoznJ6wrH29PhEzosvduJ9jodYNsSh4guBzgKZw6Lquicoa2UFCDZpmvm5VgxnV615",
+  "mint_tx": "4xztBD13sDjXgAw3KmLiohSgCcatLba2j9TLU4ARW2dryh7CYdup6wPAjHrNEFN9YqTVQJnqU9EZbbFjTzxPM43A",
+  "solana_explorer_mint": "https://explorer.solana.com/address/D5pmUuWVKALVW8LQSE1UZH3WzRWNtsp1EjUzFq8ZgTJ8?cluster=devnet",
+  "timestamp": "2026-10-26 16:40:13 UTC"
+}
